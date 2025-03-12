@@ -1,0 +1,3 @@
+[submodule "extensions/nareswara-dark-theme"]
+	path = extensions/nareswara-dark-theme
+	url = https://github.com/rifainareswara/nareswara-dark-theme.git
