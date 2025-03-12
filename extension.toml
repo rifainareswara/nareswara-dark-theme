@@ -1,0 +1,7 @@
+id = "nareswara-dark-theme"
+name = "Nareswara Dark Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Rifai Nareswara"]
+description = "Nareswara Dark theme for Zed :)"
+repository = "https://github.com/rifainareswara/nareswara-dark-theme.git"
